@@ -8409,6 +8409,32 @@
                 {
                     "arcs": [
                         [
+                            18,
+                            19,
+                            20,
+                            21,
+                            22,
+                            23,
+                            24,
+                            25,
+                            51,
+                            -17,
+                            52,
+                            53,
+                            54,
+                            55,
+                            -19
+                        ]
+                    ],
+                    "type": "Polygon",
+                    "properties": {
+                        "type": "Geounit",
+                        "geounit": "Belgium"
+                    }
+                },
+                {
+                    "arcs": [
+                        [
                             -14,
                             57,
                             -12,
@@ -8435,7 +8461,7 @@
                     "type": "Polygon",
                     "properties": {
                         "type": "Sovereigncountry",
-                        "geounit": "CzechRepublic"
+                        "geounit": "Czech Republic"
                     }
                 },
                 {
@@ -8504,12 +8530,41 @@
                             78,
                             79,
                             80
+                        ],
+                        [
+                            -125,
+                            149
+                        ],
+                        [
+                            [
+                                186
+                            ]
+                        ],
+                        [
+                            [
+                                187
+                            ]
+                        ],
+                        [
+                            [
+                                188
+                            ]
+                        ],
+                        [
+                            [
+                                -80,
+                                189
+                            ]
+                        ],
+                        [
+                            -78,
+                            196
                         ]
                     ],
                     "type": "Polygon",
                     "properties": {
                         "type": "Geounit",
-                        "geounit": "England"
+                        "geounit": "United Kingdom"
                     }
                 },
                 {
@@ -8699,19 +8754,6 @@
                 {
                     "arcs": [
                         [
-                            -125,
-                            149
-                        ]
-                    ],
-                    "type": "Polygon",
-                    "properties": {
-                        "type": "Geounit",
-                        "geounit": "NorthernIreland"
-                    }
-                },
-                {
-                    "arcs": [
-                        [
                             [
                                 -24,
                                 150
@@ -8823,36 +8865,6 @@
                     "arcs": [
                         [
                             [
-                                186
-                            ]
-                        ],
-                        [
-                            [
-                                187
-                            ]
-                        ],
-                        [
-                            [
-                                188
-                            ]
-                        ],
-                        [
-                            [
-                                -80,
-                                189
-                            ]
-                        ]
-                    ],
-                    "type": "MultiPolygon",
-                    "properties": {
-                        "type": "Geounit",
-                        "geounit": "Scotland"
-                    }
-                },
-                {
-                    "arcs": [
-                        [
-                            [
                                 193
                             ]
                         ],
@@ -8868,19 +8880,6 @@
                     "properties": {
                         "type": "Sovereigncountry",
                         "geounit": "Sweden"
-                    }
-                },
-                {
-                    "arcs": [
-                        [
-                            -78,
-                            196
-                        ]
-                    ],
-                    "type": "Polygon",
-                    "properties": {
-                        "type": "Geounit",
-                        "geounit": "Wales"
                     }
                 }
             ]
