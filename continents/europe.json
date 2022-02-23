@@ -8545,9 +8545,9 @@
                             196
                         ]
                     ],
-                    "type": "Polygon",
+                    "type": "MultiPolygon",
                     "properties": {
-                        "type": "Geounit",
+                        "type": "Geosubunit",
                         "geounit": "UnitedKingdom"
                     }
                 },
