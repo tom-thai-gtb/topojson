@@ -8461,7 +8461,7 @@
                     "type": "Polygon",
                     "properties": {
                         "type": "Sovereigncountry",
-                        "geounit": "Czech Republic"
+                        "geounit": "CzechRepublic"
                     }
                 },
                 {
@@ -8564,7 +8564,7 @@
                     "type": "Polygon",
                     "properties": {
                         "type": "Geounit",
-                        "geounit": "United Kingdom"
+                        "geounit": "UnitedKingdom"
                     }
                 },
                 {
