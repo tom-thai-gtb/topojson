@@ -8547,7 +8547,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "type": "Geosubunit",
+                        "type": "Country",
                         "geounit": "UnitedKingdom"
                     }
                 },
@@ -8569,7 +8569,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "type": "Geosubunit",
+                        "type": "Country",
                         "geounit": "Spain"
                     }
                 },
